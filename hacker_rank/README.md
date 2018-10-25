@@ -1,0 +1,1 @@
+All functions in this file are solutions to problems on hacker rank. 
