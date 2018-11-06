@@ -1,1 +1,2 @@
-All functions in this file are solutions to problems on hacker rank. 
+#All files in this folders are solutions to problems on hacker rank.
+
